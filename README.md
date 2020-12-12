@@ -12,6 +12,7 @@ Tech stack comprises of React, JS, Photoshop, Illustrator, CSS & plain old HTML.
 ## Challenges I ran into
 Where should I start ;) This is my first React project. I spent ours trying to figure out the enmity between github pages and React routes :( I had a lot of trouble figuring out the **optimum data-transfer method** that could be implemented in a day!
 ## Accomplishments I'm proud of
-Building something that helps in making the world a **safer place for women** and making an effort to reduce cyber-bullying these are the 2 rewards I have gained during this hackathon. Nothing compares to helping others and **that is a reward in itself**.
+Building something that helps in making the world a **safer place for women** and making an effort to reduce cyber-bullying these are the 2 rewards I have gained during this hackathon. Nothing compares to helping others and **that is a reward in itself**.<br />
+[Won RallyToUS hackathon in the **Best Anit-Cyber Bullying Project** category.](https://devpost.com/software/lexconnect-wio92b)
 ## What I learned
 I have **tasted the joy of social service**. This was my first React project and I learned the beauty of the Virtual DOM. The renders are so satisfying !!!
