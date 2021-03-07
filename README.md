@@ -1,3 +1,4 @@
+## Best Anti-Cyberbullying Project - RALLYtoUS + VetsinTech Hackathon 2020 Winner
 ## Inspiration
 ## Let's start with a story
 When a stranger asked Lexa if her if she could send a file she did so and that was the beginning of a nightmare. Vulgar calls from multiple numbers at ungodly hours... The constant **dread** when the phone rings.... Like Lexa thousands are **traumatized by cyber bullying**. If only Lexa had shared the file without leaving her digital footprint....
